@@ -9,7 +9,7 @@
 
 
 # The print command is used with a string.  It prints that string.
-# Can you find the string that this is used with the print command in the next line?
+# Can you find the string that is used with the print command in the next line?
 print("Always look on the bright side of life.")
 
 # A special string is the string with no characters at all.  It can be used to print a blank line
@@ -25,5 +25,12 @@ print(message)
 message = "There's something you've forgotten."
 print(message)
 
+# If we uncomment the next line (remove the '#' at the beginning) what will it do?  Try it and see.
+# print(message)
 
-# now add a line here to set the message to something new, and print it out.
+# What about this line?
+# print("message")
+
+
+# now add a line here to set the message variable to something new, and print it out.
+

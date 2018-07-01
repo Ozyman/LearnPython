@@ -7,7 +7,7 @@
 
 # In the python language, any line that begins with a "#" is called a comment.
 
-# Comments don't do tell the computer to do anything - they are just there to explain things to people, not computers.
+# Comments don't tell the computer to do anything - they are just there to explain things to people, not computers.
 
 # So far this file is just comments, and so it doesn't tell the computer to do anything.
 

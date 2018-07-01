@@ -1,4 +1,4 @@
-# We are going to ask the user a question and put their answer into a variable
+# We are going to ask the user a question and put their answer into a variable called name
 
 name = input("What is your name? ")
 
@@ -7,6 +7,8 @@ message = "Hello " + name
 
 # then we print it
 print(message)
+
+# Try running this program (remember type: "python ask.py" in the shell)
 
 # Can you ask the user another question, and say something in response?
 # maybe ask how old they are.  Or where they live.
