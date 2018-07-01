@@ -12,15 +12,15 @@ Introduces comments and the ```print()``` function.
 Introduces strings, characters and variables
 
 ### ask.py
-Introduces the '''input()''' function and concatination of strings.
+Introduces the ```input()``` function and concatination of strings.
 
 ### ask2.py
-Introduces the '''if''' statement.
+Introduces the ```if``` statement.
 
 ### guess.py
-Introduces the '''while''' statement
+Introduces the ```while``` statement
 
 
 ### tocome
-Introduce import and random.randint()
+Introduce ```import``` and ```random.randint()```
 Introduce user defined functions
