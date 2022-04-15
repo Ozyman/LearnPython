@@ -23,5 +23,6 @@ print("You guessed right!")
 # computers are stupid - you have to tell them *exactly* what to do
 
 # Try to change the color that we want the user to guess.
+# Change the program to guess something else.  Maybe a number or name of your best friend.
 
 
