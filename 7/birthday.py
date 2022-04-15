@@ -2,10 +2,11 @@
 
 # an argument is a value you give to a function to change it's behavior
 
-# we are going to write a function that sings happy birthday
+# we are going to use a function that prints the words to the happy birthday song.
 
-# it has an argument called "name", and this is the name of the person
+# it has an argument called "birthday_name", and this is the name of the person
 # we are singing to.
+
 def happyBirthday(birthday_name):
     print "Happy Birthday to you."
     print "Happy Birthday to you."
