@@ -5,9 +5,11 @@ favorite_color = input("What is your favorite color? ")
 # Now we want to respond in different ways depending on how the user answered our question.
 
 # If they like blue, we tell them it's our favorite also
+# otherwise we tell them we prefer blue 
+# After the lines with 'if' and 'else', the next line is indented to show that it goes with the if/else line above.
+
 if favorite_color == "blue":
     print("That's my favorite too!")
-# otherwise we tell them we prefer blue 
 else:
     print("I prefer blue.")
 
