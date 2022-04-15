@@ -14,12 +14,15 @@
 # See if you can figure out what these next two lines will do, then
 # run this program and see if you were correct.
 name = input("Please enter your name: ")
-print "Hello " + name
+print("Hello " + name)
 
 
 # python has lots of functions you can use, but you can also write your own function.
+# The "def" line defines the name of the function.
+# After the name each line of the function is indented to show that it belongs to the function
 def spam()
-  print "Lovely spam! Wonderful spam!"
+  print("Lovely spam! Wonderful spam!")
+  print("Lovely spam! Wonderful spam!!!!!")
 
 
 # now that we've written that function, we can "call" the function.
