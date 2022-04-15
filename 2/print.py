@@ -6,7 +6,8 @@
 
 # Here are 5 different characters:   'A'  "4"  "&"  '?' "+"
 # Here are 5 different strings:  "Paul" "python"  "3+4=5"  "6a2ccs?3wer"  "      +       "
-
+# notice that the last string has a lot of white space in it.  
+# White space is a fancy name for spaces, tabs or any other character that represents space on a page.
 
 # The print command is used with a string.  It prints that string.
 # Can you find the string that is used with the print command in the next line?
