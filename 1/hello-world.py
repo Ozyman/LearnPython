@@ -11,6 +11,7 @@
 
 # So far this file is just comments, and so it doesn't tell the computer to do anything.
 
+
 ###########################################################################################
 
 # Here comes a command to the computer.  We are going to tell it to print the words "Hello World!" to the screen.
@@ -46,6 +47,6 @@ print("Hello World!")
 # Did it work?  Did you change the message?  Can you have the program print something else?
 # It doesn't have to be "hello".
 #
-# #
-# When you are done playing around with the print command, move on to lesson #2.
+#
+ 
 
