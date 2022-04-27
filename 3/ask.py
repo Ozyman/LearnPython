@@ -11,4 +11,4 @@ print(message)
 # Try running this program (remember type: "python ask.py" in the shell)
 
 # Can you add some more code to ask the user another question, and say something in response?
-# maybe ask how old they are.  Or where they live.
+# maybe ask how old they are, or where they live.
