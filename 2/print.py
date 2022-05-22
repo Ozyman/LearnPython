@@ -27,11 +27,15 @@ message = "There's something you've forgotten."
 print(message)
 
 # If we uncomment the next line (remove the '#' at the beginning) what will it do?  Try it and see.
-# print(message)
+print(message)
+
+# Try to run this program from the shell, you tell the computer what language it is in like this:
+# python print.py
 
 # What about this line?
-# print("message")
+print("message")
 
 
-# now add a line here to set the message variable to something new, and print it out.
-
+# now add two line here to set the message variable to something new, and print it out.
+message = "Some call me... Tim"
+print(message)

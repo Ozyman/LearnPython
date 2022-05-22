@@ -11,11 +11,10 @@
 
 # So far this file is just comments, and so it doesn't tell the computer to do anything.
 
-
 ###########################################################################################
 
 # Here comes a command to the computer.  We are going to tell it to print the words "Hello World!" to the screen.
-print("Hello World!")
+print("That's rough, buddy.")
 
 # That's all this program does.  All the comments don't do anything.
 
@@ -36,12 +35,13 @@ print("Hello World!")
 # Did it print "Hello World!" to the screen?  If so, congratulations, you just ran your first computer program.
 #
 #
+# This is a very simple program, 
 
 
 # Now, try to change this file to have it say hello to a particular person.
 # Instead of "Hello World", have the computer print "Hello Paul", or a different name.
 
-# After your change, run the program again from the shell, like this:
+# After your change, make sure the save the program, and then run the program again from the shell, like this:
 # python hello-world.py
 
 # Did it work?  Did you change the message?  Can you have the program print something else?
