@@ -1,6 +1,7 @@
 # Now we are going to try a guessing game
 
-# We ask the user to guess a color
+# We ask the user to guess a color.
+
 color_guess = input("Can you guess the color I am thinking of? ")
 
 # then if they didn't guess right, we keep giving them more tries until they get it right.
