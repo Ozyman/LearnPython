@@ -43,6 +43,8 @@ else:
 # This example code below says if condition1 is true, then do_thing().  If it's not true than check if condition2 is true.
 # If condition1 was false and condition2 was true, than do_other_thing().
 # Finally if both condition1 was false, and condition2 was also false, do_third_thing()
+# Make sure this complicated if/else logic makes sense before you move on. If you need to - go back and reread it and compare
+# it to the lines below to see how the english description matches the code.
 '''
 if (condition1):
   do_thing()
@@ -54,25 +56,25 @@ else:
 '''
 
 # Let's take a break from if & else for a second...
-# You may have noticed that this example code doesn't have a # sign at the beginning, 
+# You may have noticed that this example code (above) doesn't have a # sign at the beginning, 
 # but it still doesn't do anything when the program is run.
-# Having three quotes all together like shown above can be used to start/end a block that 
+# Having three quotes all together like shown above can be used to start and end a block that 
 # acts like a multi-line comment.
 
 # Usually you just use a '#' on each line, even if you have a multi line comment,
 # but sometimes it can be easier to add a ''' before and after several lines to turn the entire block into a comment.
 
 '''
-You can use normal quotes (") like above or single quotes ('),
+You can use normal (double) quotes (") like above or single quotes ('),
 like this example.  They work the pretty much the same.
 ''' 
 
 
 
-# Back to the if & else stuff...
+# Back to the if/else stuff...
 # The pattern of using another if statement after an else is so common, that it has a shortcut.
 # 'elif' acts like an 'else' combined with another 'if'
-# This code below does the same thing as the code above
+# This code below does the same thing as the code above.  Compare them to see how they are similar.
 """
   if (condition1):
     do_thing()
@@ -83,7 +85,7 @@ like this example.  They work the pretty much the same.
 """
 
 
-# Now that you've learned about if & else - go back to the original code, and modify it
+# Now that you've learned about if/else - go back to the original code, and modify it
 # to give a different response for another color using the if, elif, else structure
 
 
