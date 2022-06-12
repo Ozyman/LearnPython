@@ -14,7 +14,7 @@
 ###########################################################################################
 
 # Here comes a command to the computer.  We are going to tell it to print the words "Hello World!" to the screen.
-print("That's rough, buddy.")
+print("Hello World!")
 
 # That's all this program does.  All the comments don't do anything.
 
@@ -41,7 +41,7 @@ print("That's rough, buddy.")
 # Now, try to change this file to have it say hello to a particular person.
 # Instead of "Hello World", have the computer print "Hello Paul", or a different name.
 
-# After your change, make sure the save the program, and then run the program again from the shell, like this:
+# After your change, make sure to save the program, and then run the program again from the shell, like this:
 # python hello-world.py
 
 # Did it work?  Did you change the message?  Can you have the program print something else?
