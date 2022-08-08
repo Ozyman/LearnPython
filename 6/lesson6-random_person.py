@@ -16,7 +16,14 @@ print(random.choice(name) + " is " + random.choice(personality) + ".  They have 
 
 
 # Try running this a few times.
-# Now we want to change some things.  Instead of saying "They"
+#
+# 
+#  Now we want to change some things.  Add a characteristic or two to each category, and add two more categories.
+#  Then add another print statement to include your new categories.
+# 
+
+# Now for a more challenging change.  Instead of saying "They", change it to use their name again each time.    
+# Try running it, did it work as expected?
 
 
 

@@ -2,8 +2,8 @@
 # If you didn't predict it correctly, review the code to identify your misunderstanding.
 
 noun1 = input("Please enter a noun: ")
-noun2 = input("Please enter another noun: ")
-verb = input("Please enter a verb: ")
+noun2 = input("Please enter a plural noun: ")
+verb = input("Please enter an action verb: ")
 name = input("Please enter a name: ")
 
 

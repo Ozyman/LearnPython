@@ -20,23 +20,14 @@ print("Hello " + name)
 # python has lots of functions you can use, but you can also write your own function.
 # The "def" line defines the name of the function.
 # After the name each line of the function is indented to show that it belongs to the function
-def spam()
+def spam():
   print("Lovely spam! Wonderful spam!")
   print("Lovely spam! Wonderful spam!!!!!")
 
 
-# now that we've written that function, we can "call" the function.
+# now that we've written that function, we can "call" the function.+
 # try uncommenting this line to see what it does
 
 # spam()
 
 # try calling the function several times, to see that it calls the function each time.
-
-
-
-
-
-
-
-
-
