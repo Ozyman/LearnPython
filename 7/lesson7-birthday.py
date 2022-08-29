@@ -23,10 +23,11 @@ printHappyBirthday(name)
 
 
 # Next comment out the lines that call the printHappyBirthday() function, and try running the program again.  It should run succesfully, but do nothing.  
-# Defining a function doesn't actually do anything unless the fucntion is also called.
+# Defining a function doesn't actually do anything unless the function is also called.
 # 
 # Finally, define a new function called printHB(), which sings a 'text message' version of the song.  Use 'U' in place of 'you', '2' in place of 'to', and 'HB' instead of "Happy Birthday"
 # And call it a few times with the names of your friends.  
+# You can use a "name" variable like shown, or instead just pass the string directly to printHB() without using a variable.  Try both ways!
 
 
 
