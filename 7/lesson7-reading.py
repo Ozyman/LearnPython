@@ -1,6 +1,7 @@
 # Most programs are read many more times than they are written (as bugs are fixed, features are added, etc.), so making a program easy to read is critical.
 # Good comments make code easier to read and maintain.  You might think that a professional programmer spends all their time writing new code, but 
-# actually a lot of time is spent 'maintaining' existing code - which is just work done to fix bugs, and make updates and improvements on code that already accomplishes its primary task.
+# actually a lot of time is spent 'maintaining' existing code.
+# Maintance usually describes work which is done to fix bugs, and make updates and improvements on code that already accomplishes its primary task.
 
 # A good comment describes not what is done, but why it is being done.  
 # Which of these next two comments & code blocks to you think is more useful to someone who is reading the code:
@@ -8,14 +9,14 @@
 # Set password to 6022140857
 password = 6022140857
 
-# Set password to Avogadro’s number which is Alexi's favorite number
+# Set password to Avogadro’s number which is Alexie's favorite number
 password = 6022140857
 
 
-# other than comments another critical building block for readability/maintainability is the use of functions
+# Another critical factor in readability/maintainability (besides good comments) is the use of functions
 
 # A function is a little bit of code that can be reused over and over.  
-# It's given a name, and you just use the name of the function to make the program run the code that is in the function.
+# It's given a name, and you just use the name of the function to run the code that is in the function.
 
 # You can identify functions, because they have parenthesis when they are used.
 # We've used a few functions already.  The first function we used was print().
@@ -41,9 +42,11 @@ def printNES():
     print("")
 
 
-# This function would be useful if the program often had print the lyrics.  Instead of **Eleven** lines of print(), you just write printNES() once.
+# If the program often had print the lyrics, it would be useful to put the print statements into a function.  
+# Each time you want to print the lyrics, instead of **Eleven** lines of print(), you just write printNES() once.
 
-# Read the rest of this program.  Predict what it will do, then run it to make sure you understood.  After you run it come back and read the comments below
+# Read the rest of this program.  Predict what it will do, then run it to make sure you understand.  
+# After you run it come back and read the additional comments below
 
 print("Let's sing a song:")
 printNES()
