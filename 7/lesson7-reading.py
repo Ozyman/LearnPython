@@ -4,12 +4,12 @@
 # Maintance usually describes work which is done to fix bugs, and make updates and improvements on code that already accomplishes its primary task.
 
 # A good comment describes not what is done, but why it is being done.  
-# Which of these next two comments & code blocks to you think is more useful to someone who is reading the code:
+# Which of these next two comments & code blocks to you think is more useful to someone who is reading the code?
 
 # Set password to 6022140857
 password = 6022140857
 
-# Set password to Avogadro’s number which is Alexie's favorite number
+# Set password to Avogadro’s number which is Alexei's favorite number
 password = 6022140857
 
 
@@ -42,11 +42,11 @@ def printNES():
     print("")
 
 
-# If the program often had print the lyrics, it would be useful to put the print statements into a function.  
+# If the program had to print the lyrics often, it would be useful to put the print statements into a function.  
 # Each time you want to print the lyrics, instead of **Eleven** lines of print(), you just write printNES() once.
 
 # Read the rest of this program.  Predict what it will do, then run it to make sure you understand.  
-# After you run it come back and read the additional comments below
+# After you run it come back and read the additional comments below.
 
 print("Let's sing a song:")
 printNES()
