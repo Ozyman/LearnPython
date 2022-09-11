@@ -1,5 +1,7 @@
 # In this lesson you will write three functions that will be used to generate a "madlibs" type story.
-# and then prompt the user for words to use in the story.
+# and then prompt the user for words to use in the story.  
+
+# NOTE: A sample story is provided in the commments, but feel free to change things however you'd like.
 
 # write a function called print_introduction().
 # It should take three variables: plural_noun, noun, and location.
@@ -13,7 +15,7 @@
 # It takes plural_noun, verb, noun1, adjective, and noun2
 
 # The __plural_noun__ loved to __verb__ in the __noun1__, and were so glad they had run away.  But one day a __adjective__ __noun2__
-# showed up they were scared!
+# showed up and they were scared!
 
 # write a function called print_conclusion().
 # It takes plural_noun, noun1, adjective1, noun2, noun3, and adjective2.
